@@ -2,6 +2,10 @@
 
 Projeto didático de uma hamburgueria, baseado nas referências visuais enviadas.
 
+## Demonstração online
+
+Acesse o site publicado na Vercel: [JJ Burger](https://jj-burger-estudo.vercel.app)
+
 ## 1. O que foi criado
 
 - Página inicial com identidade visual escura, amarelo industrial, vermelho e verde WhatsApp.
